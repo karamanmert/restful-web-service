@@ -8,7 +8,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import java.net.URI;
 import java.util.List;
-
+/*mert karaman*/
 @RestController
 @CrossOrigin("*")
 public class TodoResource {
