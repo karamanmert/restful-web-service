@@ -10,7 +10,7 @@ import java.net.URI;
 import java.util.List;
 /*mert karaman*/
 @RestController
-@CrossOrigin("*")
+@CrossOrigin(origins = "http://localhost:4200", allowCredentials = "true", allowedHeaders = "*")
 public class TodoResource {
 
     @Autowired
