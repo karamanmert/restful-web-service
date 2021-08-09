@@ -1,4 +1,4 @@
-package com.mertkaraman.restfulwebservice.basic.auth;
+package com.mertkaraman.rest.basic.auth;
 
 
 public class AuthenticationBean {
